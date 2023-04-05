@@ -1,0 +1,20 @@
+{
+    "webcredentials": {
+        "apps": [
+            "wimbledonappcompany.co.uk.Heatmapper"
+        ]
+    },
+    "applinks": {
+        "apps": [
+            "wimbledonappcompany.co.uk.Heatmapper"
+        ],
+        "details": [
+            {
+                "appID": "wimbledonappcompany.co.uk.Heatmapper",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
